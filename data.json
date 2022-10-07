@@ -3932,8 +3932,17 @@
        "singer": ["Mohit Chauhan"],
        "genre": ["Romantic","Indian Film Pop"],
        "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
-    }
-    
+    },
+    {
+      "id": 226,
+      "name": "Dilbar Mere",
+      "lyrics": "https://www.lyrics.com/lyric-lf/750971/Asha+Bhosle/Dilbar+Mere",
+      "album": "Satte Pe Satta",
+      "Duration": "4 min 21 sec",
+      "singer": ["Asha Bhosle","Kishore Kumar"],
+      "genre": ["Sad","Emotional"],
+      "link": "https://www.youtube.com/watch?v=dDfx5xM7yno"
+   }
     ]
     
     
